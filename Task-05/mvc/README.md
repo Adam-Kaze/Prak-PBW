@@ -7,23 +7,23 @@
 
 ### Halaman Home
 
-![Halaman Home](screenshots/home.png)
+![Halaman Home](screenshoots/home.png)
 
 ### Form Login
 
-![Form Login](screenshots/login.png)
+![Form Login](screenshoots/login.png)
 
 ### Halaman Admin
 
-![Halaman Admin](screenshots/admin.png)
+![Halaman Admin](screenshoots/admin.png)
 
 ### Tambah Barang
 
-![Tambah Barang](screenshots/add.png)
+![Tambah Barang](screenshoots/add.png)
 
 ### Edit Barang
 
-![Edit Barang](screenshots/edit.png)
+![Edit Barang](screenshoots/edit.png)
 
 ## Kontribusi
 
