@@ -1,8 +1,3 @@
-### LAPORAN
-
-![Laporan Tugas](../Tugas%2005_Prak.%20PBW%20A_4522210094_Adam%20Kaze.pdf)
-
-
 ## Screenshot
 
 ### Halaman Home
@@ -27,7 +22,7 @@
 
 ## Kontribusi
 
-Dibuat oleh [Adam Kaze].
+Dibuat oleh ADAM KAZE.
 
 ## Lisensi
 
