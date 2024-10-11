@@ -1,33 +1,28 @@
-### LAPORAN
-
-![Laporan Tugas](../Tugas%2005_Prak.%20PBW%20A_4522210094_Adam%20Kaze.pdf)
-
-
 ## Screenshot
 
 ### Halaman Home
 
-![Halaman Home](screenshots/home.png)
+![Halaman Home](screenshoots/home.png)
 
 ### Form Login
 
-![Form Login](screenshots/login.png)
+![Form Login](screenshoots/login.png)
 
 ### Halaman Admin
 
-![Halaman Admin](screenshots/admin.png)
+![Halaman Admin](screenshoots/admin.png)
 
 ### Tambah Barang
 
-![Tambah Barang](screenshots/add.png)
+![Tambah Barang](screenshoots/add.png)
 
 ### Edit Barang
 
-![Edit Barang](screenshots/edit.png)
+![Edit Barang](screenshoots/edit.png)
 
 ## Kontribusi
 
-Dibuat oleh [Adam Kaze].
+Dibuat oleh ADAM KAZE.
 
 ## Lisensi
 
